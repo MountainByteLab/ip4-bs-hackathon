@@ -2,7 +2,10 @@ import React from 'react'
 
 function Shelf() {
   return (
-    <div>Shelf</div>
+    <div>Shelf
+
+      <Search />
+    </div>
   )
 }
 

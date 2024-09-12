@@ -1,5 +1,4 @@
 
-
 .search-bar-container {
     text-align: center;
     margin-bottom: 20px;
@@ -31,14 +30,60 @@
         }
 
         button {
-            padding: 0;
+            padding: 10px;
             background-color: transparent;
             border: none;
             cursor: pointer;
             display: flex;
             align-items: center;
 
+            img {
+                width: 20px;
+                height: 20px;
+            }
+        }
+    }
 
+    .results-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+
+        h2 {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 15px;
+        }
+    }
+
+    .search-result-card {
+        background-color: #f4f4f4;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 10px 0;
+        text-align: center;
+        width: 250px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+        p {
+            margin: 5px 0;
+            color: #555;
+            font-size: 14px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 14px;
+            border-radius: 5px;
+            cursor: pointer;
+
+            &:hover {
+                background-color: #45a049;
             }
         }
     }
