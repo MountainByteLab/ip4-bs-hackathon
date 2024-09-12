@@ -1,9 +1,22 @@
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
+import BackgroundImage from "../../assets/images/background.svg";
+import "./Subscription.scss";
 
 function Subscription() {
-  return (
-    <div><Link to="/bookshelf"><button type="button">Get 10 Slots!</button></Link></div>
-  )
+    return (
+        <div className="subscription">
+            <img
+                className="subscription__background"
+                src={BackgroundImage}
+                alt="Background"
+            />
+            <Link to="/bookshelf">
+                <button className="subscription__button" type="button">
+                    Add Now
+                </button>
+            </Link>
+        </div>
+    );
 }
 
-export default Subscription
+export default Subscription;
