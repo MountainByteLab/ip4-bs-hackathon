@@ -1,0 +1,10 @@
+.bookshelf {
+    margin-bottom: 100px;
+    &__section {
+        margin-inline: auto;
+        display: flex;
+        flex-direction: row;
+        width: 70%;
+        gap: 115px;
+    }
+}
