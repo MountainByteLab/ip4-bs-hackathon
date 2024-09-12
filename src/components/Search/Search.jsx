@@ -1,5 +1,6 @@
 import React from 'react';
 import searchIcon from "../../assets/images/search.svg"; 
+import "./Search.scss";
 
 
 function Search({ searchTerm, setSearchTerm, filteredShows, addShowToCollection }) {
