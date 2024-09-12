@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import BackgroundImage from "../../assets/images/background.svg";
+import SubscriptionSVG from "../../assets/images/subscription.svg";
 import "./Subscription.scss";
 
 function Subscription() {
@@ -7,7 +7,7 @@ function Subscription() {
         <div className="subscription">
             <img
                 className="subscription__background"
-                src={BackgroundImage}
+                src={SubscriptionSVG}
                 alt="Background"
             />
             <Link to="/bookshelf">
