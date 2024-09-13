@@ -10,7 +10,7 @@ function Subscription() {
                 src={SubscriptionSVG}
                 alt="Background"
             />
-            <Link to="/bookshelf">
+            <Link to="/checkout">
                 <button className="subscription__button" type="button">
                     Add Now
                 </button>
