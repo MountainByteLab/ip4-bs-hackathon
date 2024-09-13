@@ -3,7 +3,15 @@ import searchIcon from "../../assets/images/search.svg";
 import "./Search.scss";
 
 
-function Search({ searchTerm, setSearchTerm, filteredShows, addShowToCollection }) {
+function Search( {searchTerm, setSearchTerm, showsList, setSearchedShow} ) {
+
+    const handleSubmit = (event) => {
+        event.preventDefault();
+        let foundShow = showsList.find(show=>show.show_name.toLowerCase()===searchTerm.toLowerCase())
+        console.log(foundShow)
+        setSearchedShow(foundShow)
+    }
+
     return (
         <div className="search-bar-container">
             <h2>Step 1: Search Stream what you like</h2>
@@ -14,21 +22,7 @@ function Search({ searchTerm, setSearchTerm, filteredShows, addShowToCollection 
                     value={searchTerm} 
                     onChange={(e) => setSearchTerm(e.target.value)} 
                 />
-                <button type="submit">
-                    <img src={searchIcon} alt="Search Icon" />
-                </button>
-            </div>
-
-
-            <div className="results-section">
-                <h2>Search Result</h2>
-                {filteredShows.map((show) => (
-                    <div key={show.id} className="search-result-card">
-                        <p>{show.provider}</p>
-                        <p>{show.show_name}</p>
-                        <button onClick={() => addShowToCollection(show)}>Add</button>
-                    </div>
-                ))}
+                <img src={searchIcon} alt="Search Icon" onClick={handleSubmit} />
             </div>
     </div>
     );
