@@ -1,1402 +1,1402 @@
 [
   {
     "id": 1,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystery+of+the+Lost+City&font=Oswald",
-    "show_name": "Mystery of the Lost City",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/9MxhqYvwx8FSb5cRWUWEDfpWSfo.jpg",
+    "show_name": "Mythbusters",
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 2,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Galaxy+Warriors&font=Oswald",
-    "show_name": "Galaxy Warriors",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+    "show_name": "Regular Show",
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 3,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cooking+with+Chef+Roy&font=Oswald",
-    "show_name": "Cooking with Chef Roy",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+    "show_name": "The Daily Show",
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 4,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Manor&font=Oswald",
-    "show_name": "Haunted Manor",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+    "show_name": "NCIS",
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 5,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Great+Heist&font=Oswald",
-    "show_name": "The Great Heist",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg/assets/logos/watchNow.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+    "show_name": "Doctor Who",
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 6,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Underwater+Odyssey&font=Oswald",
-    "show_name": "Underwater Odyssey",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+    "show_name": "Suits",
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 7,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Alien+Invasion:+Earth&font=Oswald",
-    "show_name": "Alien Invasion: Earth",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+    "show_name": "The Flash",
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 8,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Detective's+Code&font=Oswald",
-    "show_name": "The Detective's Code",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "show_name": "Game of Thrones",
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 9,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=Survivors+of+the+Wild&font=Oswald",
-    "show_name": "Survivors of the Wild",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+    "show_name": "Blue Bloods",
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 10,
-    "show_poster": "https://placehold.co/128x163/black/white/svg?text=High+School+Dramas&font=Oswald",
-    "show_name": "High School Dramas",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "show_poster": "https://www.themoviedb.org/t/p/w1280/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+    "show_name": "Smallville",
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 11,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Space+Explorers&font=Oswald",
     "show_name": "Space Explorers",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 12,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Getaway&font=Oswald",
     "show_name": "Romantic Getaway",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 13,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=True+Crime+Chronicles&font=Oswald",
     "show_name": "True Crime Chronicles",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 14,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Ghost+Hunters&font=Oswald",
     "show_name": "The Ghost Hunters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 15,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Adventures+in+Time&font=Oswald",
     "show_name": "Adventures in Time",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 16,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Futuristic+Society&font=Oswald",
     "show_name": "Futuristic Society",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 17,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Ancient+Mysteries&font=Oswald",
     "show_name": "Ancient Mysteries",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 18,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Comedy+Club&font=Oswald",
     "show_name": "The Comedy Club",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 19,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Thrill+Seekers&font=Oswald",
     "show_name": "Thrill Seekers",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 20,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Island+Survival&font=Oswald",
     "show_name": "Island Survival",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 21,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Detective+John&font=Oswald",
     "show_name": "Detective John",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 22,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Kingdom+of+Beasts&font=Oswald",
     "show_name": "Kingdom of Beasts",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 23,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Drama+House&font=Oswald",
     "show_name": "The Drama House",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 24,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spooky+Tales&font=Oswald",
     "show_name": "Spooky Tales",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 25,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Lost+in+the+Desert&font=Oswald",
     "show_name": "Lost in the Desert",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 26,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Time+Machine&font=Oswald",
     "show_name": "The Time Machine",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 27,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Jungle+Adventure&font=Oswald",
     "show_name": "Jungle Adventure",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 28,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Laugh+Out+Loud&font=Oswald",
     "show_name": "Laugh Out Loud",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 29,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Supernatural+Files&font=Oswald",
     "show_name": "Supernatural Files",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 30,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Escape+the+City&font=Oswald",
     "show_name": "Escape the City",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 31,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Deep+Sea+Mysteries&font=Oswald",
     "show_name": "Deep Sea Mysteries",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 32,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Martian+Chronicles&font=Oswald",
     "show_name": "Martian Chronicles",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 33,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Gatherings&font=Oswald",
     "show_name": "Family Gatherings",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 34,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Chasing+Shadows&font=Oswald",
     "show_name": "Chasing Shadows",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 35,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Last+Frontier&font=Oswald",
     "show_name": "The Last Frontier",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 36,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Galactic+Battles&font=Oswald",
     "show_name": "Galactic Battles",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 37,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romance+in+Paris&font=Oswald",
     "show_name": "Romance in Paris",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 38,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Documentary+Diaries&font=Oswald",
     "show_name": "Documentary Diaries",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 39,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystic+Places&font=Oswald",
     "show_name": "Mystic Places",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 40,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Adventurers+of+the+East&font=Oswald",
     "show_name": "Adventurers of the East",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 41,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Lost+in+Space&font=Oswald",
     "show_name": "Lost in Space",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 42,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=High+Society&font=Oswald",
     "show_name": "High Society",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 43,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Sports+Mania&font=Oswald",
     "show_name": "Sports Mania",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 44,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cryptid+Hunters&font=Oswald",
     "show_name": "Cryptid Hunters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 45,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Journey+to+the+Mountains&font=Oswald",
     "show_name": "Journey to the Mountains",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 46,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Robot+Revolution&font=Oswald",
     "show_name": "Robot Revolution",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 47,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Great+Chase&font=Oswald",
     "show_name": "The Great Chase",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 48,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Stand-Up+Comedy+Night&font=Oswald",
     "show_name": "Stand-Up Comedy Night",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 49,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mythical+Legends&font=Oswald",
     "show_name": "Mythical Legends",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 50,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Desert+Wanderers&font=Oswald",
     "show_name": "Desert Wanderers",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 51,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cybernetic+World&font=Oswald",
     "show_name": "Cybernetic World",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 52,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Last+Dance&font=Oswald",
     "show_name": "The Last Dance",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 53,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Sitcom+Shenanigans&font=Oswald",
     "show_name": "Sitcom Shenanigans",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 54,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Paranormal+Activity&font=Oswald",
     "show_name": "Paranormal Activity",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 55,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Escape+from+Reality&font=Oswald",
     "show_name": "Escape from Reality",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 56,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Interstellar+Voyage&font=Oswald",
     "show_name": "Interstellar Voyage",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 57,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Royal+Affairs&font=Oswald",
     "show_name": "Royal Affairs",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 58,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Nature's+Wonders&font=Oswald",
     "show_name": "Nature's Wonders",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 59,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Urban+Legends&font=Oswald",
     "show_name": "Urban Legends",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 60,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Wilderness+Survivors&font=Oswald",
     "show_name": "Wilderness Survivors",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 61,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Space+Cowboys&font=Oswald",
     "show_name": "Space Cowboys",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 62,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spy+Chronicles&font=Oswald",
     "show_name": "Spy Chronicles",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 63,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Fun+Hour&font=Oswald",
     "show_name": "Family Fun Hour",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 64,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Ghost+Encounters&font=Oswald",
     "show_name": "Ghost Encounters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 65,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Urban+Escape&font=Oswald",
     "show_name": "The Urban Escape",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 66,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Cyber+Chronicles&font=Oswald",
     "show_name": "The Cyber Chronicles",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 67,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+War+Hero&font=Oswald",
     "show_name": "The War Hero",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 68,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Daily+Laughs&font=Oswald",
     "show_name": "Daily Laughs",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 69,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Legends&font=Oswald",
     "show_name": "Haunted Legends",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 70,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Remote+Island&font=Oswald",
     "show_name": "Remote Island",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 71,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cosmic+Journey&font=Oswald",
     "show_name": "Cosmic Journey",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 72,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Undercover+Agent&font=Oswald",
     "show_name": "Undercover Agent",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 73,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Reunions&font=Oswald",
     "show_name": "Family Reunions",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 74,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystery+Hunters&font=Oswald",
     "show_name": "Mystery Hunters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 75,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Great+Outdoors&font=Oswald",
     "show_name": "The Great Outdoors",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 76,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Digital+Realm&font=Oswald",
     "show_name": "The Digital Realm",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 77,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Rescue+Mission&font=Oswald",
     "show_name": "Rescue Mission",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 78,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Gold&font=Oswald",
     "show_name": "Comedy Gold",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 79,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cursed+Places&font=Oswald",
     "show_name": "Cursed Places",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 80,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mountain+Climb&font=Oswald",
     "show_name": "Mountain Climb",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 81,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Solar+System+Saga&font=Oswald",
     "show_name": "Solar System Saga",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 82,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Spy+Who+Loved+Me&font=Oswald",
     "show_name": "The Spy Who Loved Me",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 83,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Nature+Chronicles&font=Oswald",
     "show_name": "Nature Chronicles",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 84,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Unknown&font=Oswald",
     "show_name": "The Unknown",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 85,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Explorers+of+the+Deep&font=Oswald",
     "show_name": "Explorers of the Deep",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 86,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Galactic+Warfare&font=Oswald",
     "show_name": "Galactic Warfare",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 87,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Detective+Mysteries&font=Oswald",
     "show_name": "Detective Mysteries",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 88,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Late+Night+Laughs&font=Oswald",
     "show_name": "Late Night Laughs",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 89,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Ghostly+Encounters&font=Oswald",
     "show_name": "Ghostly Encounters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 90,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Adventure+Seekers&font=Oswald",
     "show_name": "Adventure Seekers",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 91,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Time+Travel+Tales&font=Oswald",
     "show_name": "Time Travel Tales",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 92,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Escapades&font=Oswald",
     "show_name": "Romantic Escapades",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 93,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=True+Crime+Stories&font=Oswald",
     "show_name": "True Crime Stories",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 94,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Supernatural+Secrets&font=Oswald",
     "show_name": "Supernatural Secrets",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 95,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Journey+to+the+West&font=Oswald",
     "show_name": "Journey to the West",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 96,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Future+Worlds&font=Oswald",
     "show_name": "Future Worlds",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 97,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=War+Stories&font=Oswald",
     "show_name": "War Stories",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 98,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Comedy+Club&font=Oswald",
     "show_name": "The Comedy Club",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 99,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+History&font=Oswald",
     "show_name": "Haunted History",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 100,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Lost+in+the+Wild&font=Oswald",
     "show_name": "Lost in the Wild",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 101,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Space+Odyssey&font=Oswald",
     "show_name": "Space Odyssey",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 102,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spy+Games&font=Oswald",
     "show_name": "Spy Games",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 103,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Time&font=Oswald",
     "show_name": "Family Time",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 104,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Paranormal+Pursuit&font=Oswald",
     "show_name": "Paranormal Pursuit",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 105,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Island+Adventure&font=Oswald",
     "show_name": "The Island Adventure",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 106,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cosmic+Adventures&font=Oswald",
     "show_name": "Cosmic Adventures",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 107,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Mysteries&font=Oswald",
     "show_name": "Romantic Mysteries",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 108,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Nights&font=Oswald",
     "show_name": "Comedy Nights",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 109,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Ghost+Stories&font=Oswald",
     "show_name": "Ghost Stories",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 110,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Desert+Explorers&font=Oswald",
     "show_name": "Desert Explorers",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 111,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Intergalactic+War&font=Oswald",
     "show_name": "Intergalactic War",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 112,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Spy+Next+Door&font=Oswald",
     "show_name": "The Spy Next Door",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 113,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Central&font=Oswald",
     "show_name": "Comedy Central",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 114,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Tales&font=Oswald",
     "show_name": "Haunted Tales",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 115,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mountain+Mysteries&font=Oswald",
     "show_name": "Mountain Mysteries",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 116,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Future+Frontiers&font=Oswald",
     "show_name": "Future Frontiers",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 117,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Great+Escape&font=Oswald",
     "show_name": "The Great Escape",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 118,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Stand-Up+Stars&font=Oswald",
     "show_name": "Stand-Up Stars",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 119,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystery+Files&font=Oswald",
     "show_name": "Mystery Files",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 120,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Island+Mysteries&font=Oswald",
     "show_name": "Island Mysteries",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 121,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Space+Command&font=Oswald",
     "show_name": "Space Command",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 122,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Thrillers&font=Oswald",
     "show_name": "Romantic Thrillers",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 123,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Adventures&font=Oswald",
     "show_name": "Family Adventures",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 124,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Supernatural+Thrills&font=Oswald",
     "show_name": "Supernatural Thrills",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 125,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Jungle+Quest&font=Oswald",
     "show_name": "Jungle Quest",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 126,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cyberworld&font=Oswald",
     "show_name": "Cyberworld",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 127,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Ultimate+Heist&font=Oswald",
     "show_name": "The Ultimate Heist",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 128,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Kings&font=Oswald",
     "show_name": "Comedy Kings",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 129,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunting+Legends&font=Oswald",
     "show_name": "Haunting Legends",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 130,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Survival+Stories&font=Oswald",
     "show_name": "Survival Stories",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 131,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Galactic+Empire&font=Oswald",
     "show_name": "Galactic Empire",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 132,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Detective+Files&font=Oswald",
     "show_name": "Detective Files",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 133,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Laugh+Out+Loud&font=Oswald",
     "show_name": "Laugh Out Loud",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 134,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Paranormal+Mysteries&font=Oswald",
     "show_name": "Paranormal Mysteries",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 135,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Desert+Adventure&font=Oswald",
     "show_name": "Desert Adventure",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 136,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Cosmic+Quest&font=Oswald",
     "show_name": "The Cosmic Quest",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 137,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spy+Network&font=Oswald",
     "show_name": "Spy Network",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 138,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Ties&font=Oswald",
     "show_name": "Family Ties",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 139,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Places&font=Oswald",
     "show_name": "Haunted Places",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 140,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Wild+Ones&font=Oswald",
     "show_name": "The Wild Ones",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 141,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Final+Frontier&font=Oswald",
     "show_name": "The Final Frontier",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 142,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Encounters&font=Oswald",
     "show_name": "Romantic Encounters",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 143,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Hour&font=Oswald",
     "show_name": "Comedy Hour",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 144,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystic+Hunters&font=Oswald",
     "show_name": "Mystic Hunters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 145,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Jungle+Expedition&font=Oswald",
     "show_name": "Jungle Expedition",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 146,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Space+Legends&font=Oswald",
     "show_name": "Space Legends",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 147,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Secret+Agent&font=Oswald",
     "show_name": "The Secret Agent",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 148,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Drama&font=Oswald",
     "show_name": "Family Drama",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 149,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Supernatural+Chronicles&font=Oswald",
     "show_name": "Supernatural Chronicles",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 150,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Wilderness+Quest&font=Oswald",
     "show_name": "Wilderness Quest",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 151,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Galactic+Warriors&font=Oswald",
     "show_name": "Galactic Warriors",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 152,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spy+Missions&font=Oswald",
     "show_name": "Spy Missions",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 153,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Daily+Comedy&font=Oswald",
     "show_name": "Daily Comedy",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 154,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Trails&font=Oswald",
     "show_name": "Haunted Trails",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 155,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mountain+Adventures&font=Oswald",
     "show_name": "Mountain Adventures",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 156,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Cyber+Heist&font=Oswald",
     "show_name": "The Cyber Heist",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 157,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Journeys&font=Oswald",
     "show_name": "Romantic Journeys",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 158,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Classics&font=Oswald",
     "show_name": "Comedy Classics",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 159,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystic+Legends&font=Oswald",
     "show_name": "Mystic Legends",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 160,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Island+Quest&font=Oswald",
     "show_name": "Island Quest",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 161,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cosmic+Battles&font=Oswald",
     "show_name": "Cosmic Battles",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 162,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Great+Detective&font=Oswald",
     "show_name": "The Great Detective",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 163,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Night&font=Oswald",
     "show_name": "Family Night",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 164,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Ghost+Files&font=Oswald",
     "show_name": "Ghost Files",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 165,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Desert+Escape&font=Oswald",
     "show_name": "The Desert Escape",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 166,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Space+Colony&font=Oswald",
     "show_name": "The Space Colony",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 167,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spy+Stories&font=Oswald",
     "show_name": "Spy Stories",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 168,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Late+Night+Laughs&font=Oswald",
     "show_name": "Late Night Laughs",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 169,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Houses&font=Oswald",
     "show_name": "Haunted Houses",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 170,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mountain+Heroes&font=Oswald",
     "show_name": "Mountain Heroes",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 171,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Interstellar+Wars&font=Oswald",
     "show_name": "Interstellar Wars",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 172,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Moments&font=Oswald",
     "show_name": "Romantic Moments",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 173,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Now&font=Oswald",
     "show_name": "Comedy Now",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 174,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Supernatural+Hunters&font=Oswald",
     "show_name": "Supernatural Hunters",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 175,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Jungle+Trek&font=Oswald",
     "show_name": "Jungle Trek",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 176,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Galactic+Empire&font=Oswald",
     "show_name": "The Galactic Empire",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 177,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Spy+Chronicles&font=Oswald",
     "show_name": "Spy Chronicles",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 178,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Comedy&font=Oswald",
     "show_name": "Family Comedy",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 179,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystery+Solvers&font=Oswald",
     "show_name": "Mystery Solvers",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 180,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Island+Survivors&font=Oswald",
     "show_name": "Island Survivors",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 181,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Digital+Frontier&font=Oswald",
     "show_name": "The Digital Frontier",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 182,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Adventures&font=Oswald",
     "show_name": "Romantic Adventures",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 183,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Moments&font=Oswald",
     "show_name": "Comedy Moments",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 184,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Haunted+Mysteries&font=Oswald",
     "show_name": "Haunted Mysteries",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 185,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Wilderness+Escape&font=Oswald",
     "show_name": "Wilderness Escape",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 186,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Cosmic+Explorers&font=Oswald",
     "show_name": "Cosmic Explorers",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 187,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Spy+Within&font=Oswald",
     "show_name": "The Spy Within",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 188,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Gatherings&font=Oswald",
     "show_name": "Family Gatherings",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 189,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Supernatural+Tales&font=Oswald",
     "show_name": "Supernatural Tales",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 190,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mountain+Mystics&font=Oswald",
     "show_name": "Mountain Mystics",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 191,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Galactic+Chronicles&font=Oswald",
     "show_name": "Galactic Chronicles",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 192,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Romantic+Escapes&font=Oswald",
     "show_name": "Romantic Escapes",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 193,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Comedy+Hour&font=Oswald",
     "show_name": "Comedy Hour",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 194,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Paranormal+Legends&font=Oswald",
     "show_name": "Paranormal Legends",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 195,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Jungle+Warriors&font=Oswald",
     "show_name": "Jungle Warriors",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   },
   {
     "id": 196,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Space+Pioneers&font=Oswald",
     "show_name": "Space Pioneers",
-    "provider": "StreamPlus",
-    "provider_logo": "src/assets/logos/streamPlus.svg"
+    "provider": "Netflix",
+    "provider_logo": "src/assets/logos/Netflix.svg"
   },
   {
     "id": 197,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Secret+Spy&font=Oswald",
     "show_name": "The Secret Spy",
-    "provider": "MovieBox",
-    "provider_logo": "src/assets/logos/movieBox.svg"
+    "provider": "Disney+",
+    "provider_logo": "src/assets/logos/DisneyPlus_Logo.svg"
   },
   {
     "id": 198,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Family+Nights&font=Oswald",
     "show_name": "Family Nights",
-    "provider": "BingeFlix",
-    "provider_logo": "src/assets/logos/bingeFlix.svg"
+    "provider": "Amazon Prime Video",
+    "provider_logo": "src/assets/logos/Amazon_Prime_Video_logo.svg"
   },
   {
     "id": 199,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Mystery+Files&font=Oswald",
     "show_name": "Mystery Files",
-    "provider": "Streamify",
-    "provider_logo": "src/assets/logos/streamify.svg"
+    "provider": "Apple TV +",
+    "provider_logo": "src/assets/logos/Apple_TV_Plus_Logo.svg"
   },
   {
     "id": 200,
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=Desert+Trek&font=Oswald",
     "show_name": "Desert Trek",
-    "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg"
+    "provider": "Hulu",
+    "provider_logo": "src/assets/logos/Hulu.svg"
   }
 ]

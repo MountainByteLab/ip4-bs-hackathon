@@ -1,6 +1,4 @@
 import Card from "../Card/Card";
-import placeholder1 from "../../assets/images/placeholder1.png"
-import NetflixLogo from "../../assets/images/Netflix_N_logo.svg"
 import "./SearchResults.scss"
 
 function SearchResults({searchedShow, listFunction}) {
