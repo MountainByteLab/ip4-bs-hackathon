@@ -11,7 +11,7 @@ function Search({ searchTerm, setSearchTerm, showsList, setSearchedShow }) {
     console.log(foundShow);
     setSearchedShow(foundShow);
     console.log(event.target)
-    // event.target.reset();
+    setSearchTerm("");
   };
 
   return (
@@ -21,7 +21,7 @@ function Search({ searchTerm, setSearchTerm, showsList, setSearchedShow }) {
         <input
           className="search-bar__input"
           type="text"
-          placeholder="Search"
+          placeholder="Search..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
