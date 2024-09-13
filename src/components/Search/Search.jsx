@@ -30,9 +30,8 @@ function Search({ searchTerm, setSearchTerm, filteredShows, addShowToCollection 
                     </div>
                 ))}
             </div>
-        </div>
+    </div>
     );
 }
-
 
 export default Search;
