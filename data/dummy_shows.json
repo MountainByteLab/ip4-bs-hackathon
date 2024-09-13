@@ -32,7 +32,7 @@
     "show_poster": "https://placehold.co/128x163/black/white/svg?text=The+Great+Heist&font=Oswald",
     "show_name": "The Great Heist",
     "provider": "WatchNow",
-    "provider_logo": "src/assets/logos/watchNow.svg/assets/logos/watchNow.svg"
+    "provider_logo": "src/assets/logos/watchNow.svg"
   },
   {
     "id": 6,
