@@ -4,4 +4,7 @@
     display: flex;
     gap:20px;
     padding: 44px 36px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
 }
